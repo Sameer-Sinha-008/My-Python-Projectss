@@ -13,3 +13,6 @@ Yo! Welcome to my Python hub. Yeh mera personal space hai jahan mai coding seekh
 
 ---
 *Dimaag ghumta hai par code chalta hai, wahi kaafi hai! Day by day building...* 😎✌️
+* **🧙‍♂️ Wizard Game (`inheritance.py`)**
+    * **What I did:** Implemented **Inheritance** and **Method Overriding**. Base class character ko aam insaan ki tarah chalaya, par wizard class ke andar method override karke Doctor Strange ko portal se teleport karwaya! ⚡
+    * 
