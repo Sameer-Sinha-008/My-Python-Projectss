@@ -1,0 +1,18 @@
+class smartphone:
+    def __init__(self, brand, os, password):
+        self.brand = brand
+        self._os = os
+        self.__password = password
+
+class phone(smartphone):
+    def show_details(self):
+        print(f"The brand is {self.brand}")
+        print(f"The os is {self._os}")
+       
+        print(f"The password is {self._smartphone__password}")
+
+my_phone = phone("Realme", "Android", "Sameer@123")
+
+print(my_phone.brand)
+print(my_phone._os)
+print(my_phone._smartphone__password) 
