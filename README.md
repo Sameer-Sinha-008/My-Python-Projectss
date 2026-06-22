@@ -16,3 +16,21 @@ Yo! Welcome to my Python hub. Yeh mera personal space hai jahan mai coding seekh
 * **🧙‍♂️ Wizard Game (`inheritance.py`)**
     * **What I did:** Implemented **Inheritance** and **Method Overriding**. Base class character ko aam insaan ki tarah chalaya, par wizard class ke andar method override karke Doctor Strange ko portal se teleport karwaya! ⚡
     * 
+
+# Python Access Modifiers Examples
+
+Is project mein maine Python ke **Access Modifiers** (Public, Protected, aur Private) ko ek simple code ke zariye samjhaya hai. Yeh code OOPs (Object-Oriented Programming) aur Inheritance ka use karta hai.
+
+## 🚀 Is code mein kya seekhne ko milega?
+* **Public Modifier**: Normal variables jo class ke andar aur bahar kahin bhi use ho sakte hain.
+* **Protected Modifier (`_`)**: Ek single underscore wale variables, jo sirf parent aur child class mein use hone chahiye.
+* **Private Modifier (`__`)**: Double underscore wale variables, jo ekdum secure hote hain aur unhe bahar access karne ke liye **Name Mangling** (`_classname__variable`) ka use kiya jata hai.
+
+## 🛠️ Tools Used:
+* Language: Python 3
+* Editor: Pydroid 3 (Mobile IDE)
+
+## 📝 Code Kaise Run Karein?
+Aap is file ko download karke kisi bhi Python environment ya terminal par run kar sakte hain:
+```bash
+python main.py
