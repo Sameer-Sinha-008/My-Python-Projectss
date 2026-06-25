@@ -34,3 +34,27 @@ Is project mein maine Python ke **Access Modifiers** (Public, Protected, aur Pri
 Aap is file ko download karke kisi bhi Python environment ya terminal par run kar sakte hain:
 ```bash
 python main.py
+
+# Rock, Paper, Scissors Game (Python) 🪨📄✂️
+
+Hey guys! Maine Python seekhte-seekhte yeh ek chhota sa Rock, Paper, Scissors game banaya hai (CodeWithHarry bhai ke tutorial se inspire hoke). 
+
+Yeh ekdum basic terminal-based game hai jisme aap Computer ke khilaaf khelte ho.
+
+## 🤔 Kaise Kheleise?
+Game run karte hi aapse ek number manga jayega:
+* `0` type karo **Rock** ke liye
+* `1` type karo **Paper** ke liye
+* `2` type karo **Scissors** ke liye
+
+Iske baad Computer apna random choice lega aur result dikha dega ki aap jeete, haare ya match Draw hua!
+
+## 🛠️ Maine isme kya-kya use kiya?
+* Python ka `random` module (Computer ki choice ke liye)
+* `if-elif-else` ke basic logics aur functions
+
+## 🚀 Run Kaise Karna Hai?
+Agar aapke paas Python installed hai, toh terminal kholo aur chala do:
+```bash
+python main.py
+
