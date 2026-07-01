@@ -58,3 +58,24 @@ Agar aapke paas Python installed hai, toh terminal kholo aur chala do:
 ```bash
 python main.py
 
+# 🎰 My Python Casino Game!
+
+Hey everyone! Mai abhi 10th class me hoon aur CodeWithHarry bhaiya ke videos dekh kar Python seekh raha hoon. Maine jo bhi abhi tak seekha (jaise Classes, Objects, Private variables aur random numbers), un sabko mila kar maine yeh ek chhota sa **Casino Game** banaya hai!
+
+## 🤔 Game Me Kya Hota Hai?
+* Isme aap ek Casino Player bante ho jiska apna `name`, `balance`, aur ek secret `PIN` hota hai.
+* Aapko daav par lagane ke liye paise (`bet_amount`) chunne hote hain aur 0 se 5 ke beech ek number guess karna hota hai.
+* Agar aapka guess aur computer ka number match ho gaya, toh **paise double!!** 💰
+* Agar galat hua, toh casino wale paise le jaate hain (Aur screen par likha aata hai: *You Lose* 😜).
+* Privacy ka poora dhyan rakha hai, galat PIN daaloge toh game chalega hi nahi!
+
+## 🛠️ Maine Isme Kya-Kya Use Kiya?
+* **Python Classes & Objects** (Player ki details banane ke liye)
+* **Private Modifiers (`__`)** (Paise aur PIN ko secure rakhne ke liye)
+* **Random Module** (Computer se random number roll karwane ke liye)
+* **If-Else Logics** (Jeet aur haar check karne ke liye)
+
+## 🚀 Kaise Kheleise?
+Agar aapke phone me Pydroid 3 hai ya PC me Python, toh bas code copy karo aur run kar do:
+```bash
+python main.py
