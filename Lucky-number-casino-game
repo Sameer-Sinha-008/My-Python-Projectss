@@ -1,0 +1,38 @@
+import random
+
+class CasinoPlayer:
+    casino_profit = 0 
+
+    def __init__(self, name, initial_deposit, pin):
+        self.name = name                 # public
+        self._status = "Active"          # protected
+        self.__balance = initial_deposit # private
+        self.__pin = pin                 # private
+
+    def check_balance(self):
+        return self.__balance
+
+    def play_lucky_number(self, bet_amount, guessed_number, entered_pin):
+        if entered_pin != self.__pin:
+            print("Wrong!!!")
+            return
+        if bet_amount > self.__balance:
+            print("Ye gareeb!!!")
+            return
+
+        lucky_no = random.randint(0, 5)
+        print(f"\nCasino rolled: {lucky_no}")
+        
+        if guessed_number == lucky_no:
+            win = bet_amount * 2
+            self.__balance += win
+            CasinoPlayer.casino_profit -= win
+            print(f"Won Rs {win}!!!")
+        else:
+            self.__balance -= bet_amount
+            CasinoPlayer.casino_profit += bet_amount
+            print("You lose")
+
+# Class ke bahar bina kisi space ke:
+player = CasinoPlayer("Sameer", 1000, 1234)
+player.play_lucky_number(200, 3, 1234)
