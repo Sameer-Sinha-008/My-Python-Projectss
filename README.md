@@ -24,7 +24,11 @@ Welcome bhai! Is repository mein mere saare Python projects ka collection hai, j
 
 ### 🧠 6. OOPs Mastery Lab (`Access_modifiers` & `Inheritance_practic...`)
 * **Kya hai?** Programming ke core concepts jaise Inheritance aur Access Modifiers (Private/Public variables) ko sikhne ke liye advanced practice files.
-
+* 
+### 🕵️‍♂️ 7. Secret Agent Cipher System (`secret_agent_cipher.py`)
+* **Kya hai?** Cyber-security aur cryptography par based ek hacker tool jo tumhare messages ko ek secret code (khichdi) me badal deta hai!
+* **Speciality:** Isme ASCII shift logic lagaya hai taaki jab tak kisi ke paas correct decoding code na ho, koi tumhara message padh hi na sake! 🔒
+* 
 ---
 *Made with ❤️ by Sameer Sinha | Building the future, one script at a time!* 🚀
 
