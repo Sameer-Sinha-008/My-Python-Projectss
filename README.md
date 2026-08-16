@@ -37,6 +37,14 @@ Welcome bhai! Is repository mein mere saare Python projects ka collection hai, j
 ### 🕵️‍♂️ 8. Secret Agent Cipher System (`secret_agent_cipher.py`)
 * **Kya hai?** Cyber-security aur cryptography par based ek hacker tool jo tumhare messages ko ek secret code me badal deta hai!
 
+* ### 🇪🇸 9. Spanish Vocabulary MCQ Quiz (`Spanish-Quiz.py`)
+
+* **Kya hai?** Ek interactive CLI Multiple Choice Question (MCQ) game jo Spanish words ki vocabulary check karta hai.
+* **Speciality:** 
+  * 🎲 **Dynamic MCQ Generation:** Built-in dictionary se automatic 1 correct aur 3 random incorrect choices pick karke shuffle karta hai.
+  * 🎯 **Real-time Logic:** User input ko zero-based index mapping se check karke score track karta hai aur end mein final result dikhada hai.
+  * 
+
 ---
 
 *Made with ❤️ by Sameer Sinha | Building the future, one script at a time! 🚀*
