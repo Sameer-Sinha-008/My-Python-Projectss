@@ -44,9 +44,35 @@ Welcome bhai! Is repository mein mere saare Python projects ka collection hai, j
   * 🎲 **Dynamic MCQ Generation:** Built-in dictionary se automatic 1 correct aur 3 random incorrect choices pick karke shuffle karta hai.
   * 🎯 **Real-time Logic:** User input ko zero-based index mapping se check karke score track karta hai aur end mein final result dikhada hai.
   * 
+# 🚀 Sameer Sinha | 10th Class Python Dev
+
+## 🔥 What I Build
+AI-powered mini tools, cybersecurity scripts aur OOPs mastery lab.  
+Pydroid3 se mobile pe Python + DSA + logic build kar raha hoon.  
+100 Days of Code + AI Assistant use karke nayi projects bana raha hoon.
+
+## 🛠️ My Projects (My-Python-Projects Repo)
+- **Smart Assistant CLI v3.0** – JARVIS-like real-time greetings + calculator
+- **Universal Translator** – Multi-language convert (deep-translator)
+- **Secret Agent Cipher** – Cybersecurity + text encryption/decryption
+- **Game Character Health Manager** – OOPs with @property + @health.setter
+- **Spanish Vocabulary MCQ Quiz** – Real-time logic + dynamic MCQ (Spanish skills ke liye)
+- **Lucky Number Casino** – Logic + loops game
+- **Chemistry Valency Solver** – Elements concepts fast check
+- **AP Calculator** – Math progression series solve
+- **Rock Paper Scissors** – Classic game with random moves
+
+## 📱 Skills & Journey
+• Python (normal + advanced logic/DSA)
+• AI as assistant
+• Pydroid3 mobile-first
+• 80%+ marks target
+• Abroad tech/CS/AI dream (Russia scholarship route)
+
+## 🇮🇳 India | Mobile First | Building the future, one script at a time! 🚀
 
 ---
 
-*Made with ❤️ by Sameer Sinha | Building the future, one script at a time! 🚀*
+*Made with ❤️ by Sameer Sinha
 
 
