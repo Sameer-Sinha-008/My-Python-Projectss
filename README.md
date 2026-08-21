@@ -22,20 +22,20 @@ Class 10 student passionate about **Python Programming**, **Logic Building**, an
 * **Overview:** Interactive CLI quiz game for vocabulary testing.
 * **Features:** Dynamic options shuffling, index mapping, and real-time score tracking.
 
-* 🕵️‍♂️ X. Office Heist - Text Adventure Engine (`office_heist.py`)
+* 🕵️‍♂️ 3. Office Heist - Text Adventure Engine (`office_heist.py`)
 
 * **Overview:** A dynamic, state-driven CLI heist game where the player navigates an office map to delete a file while bypassing locked doors and evading a roaming AI Boss.
 * **Key Concepts:** Nested Dictionaries for room state-mapping, inventory gatekeeping, and dynamic NPC movement using Python's `random` module.
 * 
 
-### 🎮 3. Game Character Health Manager (`game_oop.py`)
+### 🎮 4. Game Character Health Manager (`game_oop.py`)
 * **Overview:** Gaming character engine built with OOPs concepts.
 * **Features:** Uses `@property` and `@health.setter` to strictly validate health rules (0–100 limit).
 
-### 🔐 4. Secret Agent Cipher System (`secret_agent_cipher.py`)
+### 🔐 5. Secret Agent Cipher System (`secret_agent_cipher.py`)
 * **Overview:** Cryptography-based tool for message encoding and decryption using ASCII shift logic.
 
-### 🧪 5. Science & Utility Tools
+### 🧪 6. Science & Utility Tools
 * **AP Calculator (`AP_Calculator.py`):** Solves Arithmetic Progression series fast.
 * **Chemistry Valency Solver (`Chemistry_Valency_Solver.py`):** Quick valency and chemical concept checker.
 * **Lucky Number Casino (`lucky_number_casino.py`):** Betting game using loop logic and random generation.
