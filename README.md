@@ -22,7 +22,7 @@ Class 10 student passionate about **Python Programming**, **Logic Building**, an
 * **Overview:** Interactive CLI quiz game for vocabulary testing.
 * **Features:** Dynamic options shuffling, index mapping, and real-time score tracking.
 
-* 🕵️‍♂️ 3. Office Heist - Text Adventure Engine (`office_heist.py`)
+### 🕵️‍♂️ 3. Office Heist - Text Adventure Engine (`office_heist.py`)
 
 * **Overview:** A dynamic, state-driven CLI heist game where the player navigates an office map to delete a file while bypassing locked doors and evading a roaming AI Boss.
 * **Key Concepts:** Nested Dictionaries for room state-mapping, inventory gatekeeping, and dynamic NPC movement using Python's `random` module.
