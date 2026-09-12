@@ -39,7 +39,11 @@ Class 10 student passionate about **Python Programming**, **Logic Building**, an
 - **Chemistry Valency Solver (`Chemistry_Valency_Solver.py`):** Quick valency and chemical concept checker.
 - **Lucky Number Casino (`lucky_number_casino.py`):** Betting game using loop logic and random generation.
 
-### 💸 7. Student Finance Manager 2.0 (`student_finance_manager.py`)
+### 🌐 7. AI Universal Language Translator (`universal_translator.py`)
+- **Overview:** An AI-assisted CLI translation utility capable of converting text seamlessly between multiple global languages.
+- **Features:** Dynamic target-language selection, API/AI integration logic, and clean input/output text formatting.
+
+### 💸 8. Student Finance Manager 2.0 (`student_finance_manager.py`)
 - **Overview:** Interactive menu-driven CLI finance manager that tracks student budget allocations and delivers automated spending risk analysis.
 - **Features:** Stateful `while` loop architecture, real-time percentage breakdown for Rent/Food/Other expenses, and dynamic multi-condition alert warnings (Rent >30%, Food >30%, Other >15%, Total >70%).
 
