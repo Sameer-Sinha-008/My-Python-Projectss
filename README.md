@@ -40,12 +40,44 @@ Class 10 student passionate about **Python Programming**, **Logic Building**, an
 * **Chemistry Valency Solver (`Chemistry_Valency_Solver.py`):** Quick valency and chemical concept checker.
 * **Lucky Number Casino (`lucky_number_casino.py`):** Betting game using loop logic and random generation.
 
+# 💸 Student Finance Manager 2.0 (CLI Edition)
+
+An interactive, menu-driven Python utility designed to track personal budget, analyze category-wise expenditure percentages, and warn users against bad spending habits with dynamic financial thresholds.
+
 ---
 
-## 🎯 Goals
-* 🐍 Master Advanced Python & Dynamic Problem Solving
-* 🏆 Aiming for **80%+** in Class 10 Board Exams
-* 🌍 Preparing for a strong future in Global Computer Science / AI
+## 🚀 Key Features
+
+- 🔄 **Interactive Loop Architecture:** Stateful continuous loop handling user choices until explicitly exited.
+- 📊 **Dynamic Percentage Breakdown:** Calculates real-time spending ratios for Rent, Food, and Personal expenses.
+- ⚠️ **Multi-Threshold Warning Engine:** Independent conditional checks (`if` statements) that trigger parallel alerts:
+  - 🏠 **Rent Limit:** Warns if Rent exceeds **30%** of total budget.
+  - 🍔 **Food Limit:** Warns if Food exceeds **30%** of total budget.
+  - 🛍️ **Other Limit:** Warns if Personal/Extra expenses cross **15%**.
+  - 🚨 **Overall Risk Alert:** Flags high-risk behavior if combined expenses cross **70%**.
+
+---
+
+## 🛠️ Tech Stack & Concepts
+
+- **Language:** Python 3
+- **Environment:** Mobile-first development via Pydroid 3
+- **Core Concepts:** Stateful `while` loops, dynamic input casting (`float`), arithmetic logic, conditional branching, formatted string outputs (`f-strings` with precision formatting).
+
+---
+
+## 📱 How to Run (Pydroid 3 / Terminal)
+
+1. Clone or download `student_finance_manager.py`.
+2. Open the file in **Pydroid 3** or any Python 3 environment.
+3. Tap **Run (Play button)** and follow the menu prompts!
+
+---
+
+## 👤 Author
+
+Developed with ❤️ by **Sameer Sinha**  
+*Building the future, one script at a time! 🚀*
 
 ---
 
