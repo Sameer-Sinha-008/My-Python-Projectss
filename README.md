@@ -46,6 +46,28 @@ Class 10 student passionate about **Python Programming**, **Logic Building**, an
 ### 💸 8. Student Finance Manager 2.0 (`student_finance_manager.py`)
 - **Overview:** Interactive menu-driven CLI finance manager that tracks student budget allocations and delivers automated spending risk analysis.
 - **Features:** Stateful `while` loop architecture, real-time percentage breakdown for Rent/Food/Other expenses, and dynamic multi-condition alert warnings (Rent >30%, Food >30%, Other >15%, Total >70%).
+- ### 🏦 9. Smart ATM Engine (`atm_engine.py`)
+
+* **Overview:** An OOP-driven CLI ATM engine with strict security checks, deposit/withdrawal validation, and real-time state updates.
+* **Key Concepts:** Encapsulation (Private attributes `__balance` & `__pin`), type casting (`int`/`float`), string formatting (`:.2f`), and `if-elif-else` control flow.
+# 🏦 Smart ATM Engine (`atm_engine.py`)
+
+A robust, Object-Oriented Programming (OOP) based Command Line Interface (CLI) application simulating a real-world Automated Teller Machine (ATM) system.
+
+## 🚀 Key Features
+
+* 🔐 **Secure Account Creation:** Instantly set up account holder details, initial balance, and a 4-digit PIN.
+* 💳 **Balance Checker:** Protected real-time account balance verification requiring PIN authentication.
+* 💰 **Deposit System:** Instant credit capability with input validation for negative numbers.
+* 💸 **Cash Withdrawal System:** Strict double-layer checks for PIN accuracy and balance verification (Insufficient Funds protection).
+* 🔄 **Interactive CLI Loop:** Seamless user experience with option-driven operations using Python's `while` loops.
+
+## 🧠 Concepts & Principles Mastered
+
+* **Object-Oriented Programming (OOP):** Designed blueprints (`BankAccount` class) for managing multiple instances cleanly.
+* **Encapsulation & Data Hiding:** Implemented private attributes (`__balance`, `__pin`) to restrict direct access from outside the class.
+* **Data Type Handling & Formatting:** Strict type casting (`int`, `float`) for inputs, preventing data mismatches and using `.2f` string formatting for clean currency presentation.
+* **Robust Conditional Logic:** Implemented chained `if-elif-else` control flow to eliminate invalid menu option errors.
 
 ---
 
